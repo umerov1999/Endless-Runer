@@ -1,0 +1,1263 @@
+﻿Log file open, 02/28/17 13:53:53
+LogInit:Display: Running engine for game: Endless_Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-139175251) SRandInit(-139175250).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 3.248155
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.28-13.53.54:672][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.28-13.53.54:672][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.28-13.53.54:853][  0]LogInit: Computer: GAMES-106-025
+[2017.02.28-13.53.54:853][  0]LogInit: User: Games
+[2017.02.28-13.53.54:853][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.28-13.53.54:853][  0]LogInit: High frequency timer resolution =3.613330 MHz
+[2017.02.28-13.53.54:853][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.02.28-13.53.54:853][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-13.53.54:853][  0]LogMemory: Process Physical Memory: 265.89 MB used, 265.89 MB peak
+[2017.02.28-13.53.54:853][  0]LogMemory: Process Virtual Memory: 265.45 MB used, 265.45 MB peak
+[2017.02.28-13.53.54:853][  0]LogMemory: Physical Memory: 3460.94 MB used,  12800.79 MB free, 16261.73 MB total
+[2017.02.28-13.53.54:854][  0]LogMemory: Virtual Memory: 663.59 MB used,  12800.79 MB free, 8388608.00 MB total
+[2017.02.28-13.53.56:209][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.02.28-13.54.00:217][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.28-13.54.00:254][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.02.28-13.54.00:254][  0]LogD3D11RHI:       1989/0/7874 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.02.28-13.54.00:254][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.28-13.54.00:260][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.28-13.54.00:260][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.28-13.54.00:260][  0]LogWindows: EnumDisplayDevices:
+[2017.02.28-13.54.00:260][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.02.28-13.54.00:261][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.02.28-13.54.00:261][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.02.28-13.54.00:261][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.02.28-13.54.00:261][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.02.28-13.54.00:261][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.02.28-13.54.00:261][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.02.28-13.54.00:262][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.02.28-13.54.00:262][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.02.28-13.54.00:262][  0]LogD3D11RHI:   Driver Version: 372.90 (internal:21.21.13.7290, unified:372.90)
+[2017.02.28-13.54.00:262][  0]LogD3D11RHI:      Driver Date: 9-16-2016
+[2017.02.28-13.54.00:270][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.28-13.54.00:279][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.02.28-13.54.00:279][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.28-13.54.00:595][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.02.28-13.54.00:742][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Intermediate/Shaders/WorkingDirectory/4676/).
+[2017.02.28-13.54.00:743][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Games/AppData/Local/Temp/UnrealShaderWorkingDir/6B27E7E842AD52F296B1F2B2FD86EED2/'.
+[2017.02.28-13.54.00:743][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.28-13.54.08:395][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.28-13.54.08:490][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.28-13.54.08:543][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.28-13.54.08:597][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.28-13.54.08:699][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.28-13.54.08:777][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.28-13.54.08:852][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.28-13.54.08:905][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.28-13.54.08:970][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.28-13.54.09:073][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.28-13.54.09:151][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.28-13.54.09:210][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.28-13.54.09:268][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.28-13.54.09:408][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.28-13.54.09:510][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.28-13.54.09:707][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.28-13.54.09:707][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.28-13.54.09:744][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.28-13.54.09:959][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.28-13.54.10:017][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.28-13.54.10:092][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.28-13.54.10:160][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.28-13.54.10:224][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.28-13.54.10:292][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.28-13.54.10:292][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.28-13.54.11:892][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.28-13.54.12:221][  0]LogDerivedDataCache: Loaded boot cache 0.33s 50MB C:/Users/Games/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.28-13.54.12:221][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Games/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.28-13.54.12:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.28-13.54.12:221][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.28-13.54.12:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.28-13.54.12:222][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.28-13.54.12:309][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.28-13.54.12:321][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Games/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.28-13.54.24:386][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.28-13.54.24:472][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.28-13.54.25:715][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.28-13.54.25:872][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.28-13.54.26:011][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.28-13.54.26:011][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.28-13.54.26:011][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.28-13.54.32:369][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: endless_runner, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 591384489
+[2017.02.28-13.54.32:647][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2017.02.28-13.54.32:789][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.051081 seconds
+[2017.02.28-13.54.32:857][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.28-13.54.32:857][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.02.28-13.54.32:857][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.28-13.54.33:067][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.28-13.54.38:593][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.28-13.54.38:667][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.28-13.54.38:667][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.28-13.55.20:744][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.28-13.55.20:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.28-13.55.23:604][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.28-13.55.25:353][  0]SourceControl: Info Source control is disabled
+[2017.02.28-13.55.25:354][  0]SourceControl: Info Source control is disabled
+[2017.02.28-13.55.25:516][  0]SourceControl: Info Source control is disabled
+[2017.02.28-13.55.25:707][  0]SourceControl: Info Source control is disabled
+[2017.02.28-13.55.27:152][  0]LogLinker:Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2017.02.28-13.55.27:153][  0]LogLinker:Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2017.02.28-13.55.27:153][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2017.02.28-13.55.30:860][  0]LogEngine: Initializing Engine...
+[2017.02.28-13.55.30:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.28-13.55.32:399][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.28-13.55.32:766][  0]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-13.55.32:838][  0]LogInit: FAudioDevice initialized.
+[2017.02.28-13.55.32:873][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Games/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.28-13.55.32:885][  0]LogInit: Texture streaming: Enabled
+[2017.02.28-13.55.33:948][  0]LogInit: Transaction tracking system initialized
+[2017.02.28-13.55.35:408][  0]BlueprintLog: New page: Editor Load
+[2017.02.28-13.55.38:570][  0]LocalizationService: Info Localization service is disabled
+[2017.02.28-13.55.40:209][  0]LogConsoleResponse:Display: 
+[2017.02.28-13.55.42:233][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/' took 0.03s
+[2017.02.28-13.55.42:233][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.28-13.55.42:233][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.28-13.55.45:586][  0]SourceControl: Info Source control is disabled
+[2017.02.28-13.55.45:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Endless_Runner_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.28-13.55.45:662][  0]LightingResults: New page: Lighting Build
+[2017.02.28-13.55.45:905][  0]MapCheck: New page: Map Check
+[2017.02.28-13.55.45:905][  0]LightingResults: New page: Lighting Build
+[2017.02.28-13.55.47:494][  0]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.55.48:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.28-13.55.48:371][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.28-13.55.48:473][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 101.879ms to complete.
+[2017.02.28-13.55.48:473][  0]LogFileHelpers: Loading map 'Endless_Runner_Main' took 2.845
+[2017.02.28-13.55.49:884][  0]LogCollectionManager: Loaded 0 collections in 0.001609 seconds
+[2017.02.28-13.55.50:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Collections/' took 0.01s
+[2017.02.28-13.55.50:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Developers/Games/Collections/' took 0.01s
+[2017.02.28-13.55.50:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Collections/' took 0.01s
+[2017.02.28-13.55.50:035][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.02.28-13.55.50:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2190 classes and 428 folders.
+[2017.02.28-13.55.50:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.28-13.55.50:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.28-13.55.50:127][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.02.28-13.55.50:236][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.02.28-13.55.51:966][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.02.28-13.55.52:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2017.02.28-13.55.52:363][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.28-13.55.52:464][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.28-13.55.52:687][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.02.28-13.55.52:688][  0]LogLoad: (Engine Initialization) Total time: 130.92 seconds
+[2017.02.28-13.55.52:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.77 seconds
+[2017.02.28-13.55.52:688][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.28-13.55.52:688][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.28-13.55.52:723][  0]LogOcInput: OculusInput pre-init called
+[2017.02.28-13.55.52:893][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.28-13.55.53:682][  0]LogRenderer: Reallocating scene render targets to support 1192x580 NumSamples 1 (Frame:2).
+[2017.02.28-13.55.53:981][  2]LogAssetRegistry: Asset discovery search completed in 81.3536 seconds
+[2017.02.28-13.55.54:006][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.02.28-13.55.54:006][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.024943 seconds (updated 0 objects)
+[2017.02.28-13.55.55:737][194]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-13.55.55:778][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-13.55.55:813][194]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 13:55:55)
+[2017.02.28-13.55.55:813][194]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-13.55.55:828][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014429s)
+[2017.02.28-13.55.55:829][194]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.55.55:829][194]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2017.02.28-13.55.55:830][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.016325s)
+[2017.02.28-13.55.55:860][194]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-13.55.55:877][194]LogInit: FAudioDevice initialized.
+[2017.02.28-13.55.57:620][194]LogTexture:Display: Building textures: T_Metal_Gold_D (AutoDXT)
+[2017.02.28-13.55.59:947][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-13.55.59:993][194]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-13.55.59
+[2017.02.28-13.55.59:994][194]LogWorld: Bringing up level for play took: 0.017032
+[2017.02.28-13.56.00:063][194]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.02.28-13.56.00:209][194]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 4.808
+[2017.02.28-13.56.00:364][195]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064872 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2017.02.28-13.56.02:737][440]Cmd: RestartLevel
+[2017.02.28-13.56.02:820][441]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-13.56.02:820][441]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-13.56.02:981][441]Cmd: MEM
+[2017.02.28-13.56.03:004][441]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-13.56.03:004][441]LogMemory: Process Physical Memory: 1027.95 MB used, 1125.30 MB peak
+[2017.02.28-13.56.03:004][441]LogMemory: Process Virtual Memory: 1886.72 MB used, 1936.50 MB peak
+[2017.02.28-13.56.03:004][441]LogMemory: Physical Memory: 4301.35 MB used,  11960.38 MB free, 16261.73 MB total
+[2017.02.28-13.56.03:005][441]LogMemory: Virtual Memory: 2654.60 MB used,  11960.38 MB free, 8388608.00 MB total
+[2017.02.28-13.56.03:005][441]LogMemory: 
+[2017.02.28-13.56.03:005][441]Allocator Stats for TBB: (not implemented)
+[2017.02.28-13.56.03:012][441]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-13.56.03:015][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003595s)
+[2017.02.28-13.56.03:016][441]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.56.03:016][441]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.02.28-13.56.03:016][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.004711s)
+[2017.02.28-13.56.03:016][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-13.56.03:019][441]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-13.56.03
+[2017.02.28-13.56.03:019][441]LogWorld: Bringing up level for play took: 0.001252
+[2017.02.28-13.56.03:053][441]LogLoad: Took 0.232868 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-13.56.49:206][929]Cmd: RestartLevel
+[2017.02.28-13.56.49:213][930]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-13.56.49:213][930]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-13.56.49:233][930]Cmd: MEM
+[2017.02.28-13.56.49:242][930]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-13.56.49:242][930]LogMemory: Process Physical Memory: 1012.86 MB used, 1125.30 MB peak
+[2017.02.28-13.56.49:242][930]LogMemory: Process Virtual Memory: 1765.74 MB used, 2001.31 MB peak
+[2017.02.28-13.56.49:242][930]LogMemory: Physical Memory: 4272.80 MB used,  11988.93 MB free, 16261.73 MB total
+[2017.02.28-13.56.49:242][930]LogMemory: Virtual Memory: 2527.66 MB used,  11988.93 MB free, 8388608.00 MB total
+[2017.02.28-13.56.49:242][930]LogMemory: 
+[2017.02.28-13.56.49:242][930]Allocator Stats for TBB: (not implemented)
+[2017.02.28-13.56.49:242][930]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-13.56.49:244][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001627s)
+[2017.02.28-13.56.49:245][930]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.56.49:245][930]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2017.02.28-13.56.49:245][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002410s)
+[2017.02.28-13.56.49:245][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-13.56.49:246][930]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-13.56.49
+[2017.02.28-13.56.49:247][930]LogWorld: Bringing up level for play took: 0.000882
+[2017.02.28-13.56.49:267][930]LogLoad: Took 0.053726 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-13.57.08:029][161]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-13.57.08:046][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-13.57.08:046][161]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 13:57:08)
+[2017.02.28-13.57.08:046][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-13.57.08:048][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001657s)
+[2017.02.28-13.57.08:048][161]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.57.08:048][161]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.02.28-13.57.08:049][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002573s)
+[2017.02.28-13.57.08:059][161]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-13.57.08:069][161]LogInit: FAudioDevice initialized.
+[2017.02.28-13.57.08:098][161]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-13.57.08:099][161]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-13.57.08
+[2017.02.28-13.57.08:099][161]LogWorld: Bringing up level for play took: 0.000863
+[2017.02.28-13.57.08:124][161]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.722
+[2017.02.28-13.58.39:311][868]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.02.28-13.58.45:382][155]LogRenderer: Reallocating scene render targets to support 1192x720 NumSamples 1 (Frame:19367).
+[2017.02.28-13.59.21:708][485]LogTexture:Display: Building textures: T_Lamp_M (AutoDXT)
+[2017.02.28-13.59.28:883][958]BlueprintLog: New page: Compile BP_Obstacles
+[2017.02.28-13.59.30:469][ 64]LogSavePackage: Save=25.65ms
+[2017.02.28-13.59.30:469][ 64]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Obstacles4385D79D4BF1C24938D4E680B5FDEDAB.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset'
+[2017.02.28-13.59.30:480][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset
+[2017.02.28-13.59.35:754][498]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-13.59.35:777][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-13.59.35:777][498]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 13:59:35)
+[2017.02.28-13.59.35:777][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-13.59.35:779][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2017.02.28-13.59.35:779][498]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-13.59.35:780][498]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2017.02.28-13.59.35:780][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002944s)
+[2017.02.28-13.59.35:822][498]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-13.59.35:839][498]LogInit: FAudioDevice initialized.
+[2017.02.28-13.59.35:869][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-13.59.35:872][498]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-13.59.35
+[2017.02.28-13.59.35:873][498]LogWorld: Bringing up level for play took: 0.001797
+[2017.02.28-13.59.35:920][498]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.517
+[2017.02.28-13.59.46:613][253]LogTexture:Display: Building textures: T_Shelf_M (DXT1)
+[2017.02.28-13.59.47:191][253]LogTexture:Display: Building textures: T_Shelf_N (BC5)
+[2017.02.28-13.59.56:322][755]LogTexture:Display: Building textures: T_Frame_N (BC5)
+[2017.02.28-14.00.05:706][330]BlueprintLog: New page: Compile BP_Obstacles
+[2017.02.28-14.00.06:422][371]LogSavePackage: Save=24.69ms
+[2017.02.28-14.00.06:422][371]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Obstacles03084F2540BEF005EA995581929ABF47.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset'
+[2017.02.28-14.00.06:424][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset
+[2017.02.28-14.00.08:823][614]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-14.00.08:841][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.00.08:841][614]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:00:08)
+[2017.02.28-14.00.08:841][614]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.00.08:843][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2017.02.28-14.00.08:843][614]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.00.08:844][614]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.02.28-14.00.08:844][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002529s)
+[2017.02.28-14.00.08:859][614]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.00.08:869][614]LogInit: FAudioDevice initialized.
+[2017.02.28-14.00.08:894][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.00.08:896][614]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.00.08
+[2017.02.28-14.00.08:896][614]LogWorld: Bringing up level for play took: 0.000826
+[2017.02.28-14.00.08:921][614]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main -0.483
+[2017.02.28-14.00.25:671][123]BlueprintLog: New page: Compile BP_Obstacles
+[2017.02.28-14.00.26:320][157]LogSavePackage: Save=23.81ms
+[2017.02.28-14.00.26:320][157]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Obstacles54976BDE403D2AFEBA2BA3B85FCBEB3D.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset'
+[2017.02.28-14.00.26:322][157]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Obstacles.uasset
+[2017.02.28-14.00.29:569][476]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-14.00.29:597][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.00.29:597][476]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:00:29)
+[2017.02.28-14.00.29:598][476]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.00.29:599][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2017.02.28-14.00.29:600][476]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.00.29:600][476]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2017.02.28-14.00.29:600][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002426s)
+[2017.02.28-14.00.29:618][476]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.00.29:627][476]LogInit: FAudioDevice initialized.
+[2017.02.28-14.00.29:658][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.00.29:659][476]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.00.29
+[2017.02.28-14.00.29:660][476]LogWorld: Bringing up level for play took: 0.000834
+[2017.02.28-14.00.29:693][476]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.289
+[2017.02.28-14.00.32:391][798]Cmd: RestartLevel
+[2017.02.28-14.00.32:399][799]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-14.00.32:399][799]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-14.00.32:421][799]Cmd: MEM
+[2017.02.28-14.00.32:434][799]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-14.00.32:435][799]LogMemory: Process Physical Memory: 1306.14 MB used, 1474.22 MB peak
+[2017.02.28-14.00.32:435][799]LogMemory: Process Virtual Memory: 2439.39 MB used, 2546.93 MB peak
+[2017.02.28-14.00.32:435][799]LogMemory: Physical Memory: 4563.94 MB used,  11697.79 MB free, 16261.73 MB total
+[2017.02.28-14.00.32:435][799]LogMemory: Virtual Memory: 3197.28 MB used,  11697.79 MB free, 8388608.00 MB total
+[2017.02.28-14.00.32:435][799]LogMemory: 
+[2017.02.28-14.00.32:435][799]Allocator Stats for TBB: (not implemented)
+[2017.02.28-14.00.32:435][799]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.00.32:436][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001491s)
+[2017.02.28-14.00.32:437][799]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.00.32:437][799]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2017.02.28-14.00.32:437][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002264s)
+[2017.02.28-14.00.32:437][799]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.00.32:438][799]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.00.32
+[2017.02.28-14.00.32:439][799]LogWorld: Bringing up level for play took: 0.000779
+[2017.02.28-14.00.32:455][799]LogLoad: Took 0.055998 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-14.08.21:362][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.08.21:362][851]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:08:21)
+[2017.02.28-14.08.21:362][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.08.21:364][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2017.02.28-14.08.21:365][851]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.08.21:365][851]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.02.28-14.08.21:365][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002776s)
+[2017.02.28-14.08.21:382][851]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.08.21:392][851]LogInit: FAudioDevice initialized.
+[2017.02.28-14.08.21:490][851]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.08.21:494][851]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.08.21
+[2017.02.28-14.08.21:494][851]LogWorld: Bringing up level for play took: 0.001777
+[2017.02.28-14.08.21:547][851]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.137
+[2017.02.28-14.08.21:587][851]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:168951).
+[2017.02.28-14.08.28:271][298]Cmd: RestartLevel
+[2017.02.28-14.08.28:284][299]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-14.08.28:285][299]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-14.08.28:310][299]Cmd: MEM
+[2017.02.28-14.08.28:323][299]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-14.08.28:323][299]LogMemory: Process Physical Memory: 1333.11 MB used, 1474.22 MB peak
+[2017.02.28-14.08.28:323][299]LogMemory: Process Virtual Memory: 2359.40 MB used, 2664.21 MB peak
+[2017.02.28-14.08.28:323][299]LogMemory: Physical Memory: 4599.91 MB used,  11661.82 MB free, 16261.73 MB total
+[2017.02.28-14.08.28:323][299]LogMemory: Virtual Memory: 3123.10 MB used,  11661.82 MB free, 8388608.00 MB total
+[2017.02.28-14.08.28:323][299]LogMemory: 
+[2017.02.28-14.08.28:323][299]Allocator Stats for TBB: (not implemented)
+[2017.02.28-14.08.28:323][299]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.08.28:325][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001493s)
+[2017.02.28-14.08.28:325][299]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.08.28:325][299]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2017.02.28-14.08.28:326][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002236s)
+[2017.02.28-14.08.28:326][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.08.28:327][299]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.08.28
+[2017.02.28-14.08.28:327][299]LogWorld: Bringing up level for play took: 0.000777
+[2017.02.28-14.08.28:349][299]LogLoad: Took 0.064277 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-14.09.52:296][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.10.04:282][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.10.04:283][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.10.04:283][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.10.04:284][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.10.04:284][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.10.05:985][426]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-14.10.06:829][476]LogSavePackage: Save=25.17ms
+[2017.02.28-14.10.06:829][476]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_PickupAE606BD944D5CB0EEB3C74AEE9F800E8.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-14.10.06:831][476]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-14.10.12:841][  1]LogSavePackage: Save=37.82ms
+[2017.02.28-14.10.12:841][  1]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_PickupD8D90EB8442695F386765F8966F1C305.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-14.10.12:843][  1]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-14.11.33:019][306]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.016
+[2017.02.28-14.11.33:021][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2017.02.28-14.11.33:021][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2017.02.28-14.11.33:060][306]LogSavePackage: Save=28.78ms
+[2017.02.28-14.11.33:060][306]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/ThirdPersonGameMode_Auto19B645E93415E2DCF2AF9538BC0F04891.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2017.02.28-14.11.33:061][306]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset
+[2017.02.28-14.11.33:061][306]LogFileHelpers: Auto-saving content packages took 0.041
+[2017.02.28-14.12.29:753][891]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.02.28-14.12.30:556][929]LogSavePackage: Save=59.87ms
+[2017.02.28-14.12.30:556][929]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/ThirdPersonGameMode1980019B4E81FD90DC953F8821DB7FBC.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.02.28-14.12.30:559][929]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.02.28-14.14.57:489][674]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.02.28-14.14.58:358][742]LogSavePackage: Save=32.57ms
+[2017.02.28-14.14.58:358][742]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/ThirdPersonGameModeD26AB0984F75652E2EB4349F5F9709D2.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.02.28-14.14.58:360][742]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.02.28-14.17.41:644][687]LogSavePackage: Save=73.42ms
+[2017.02.28-14.17.41:644][687]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/ThirdPersonCharacter0DB4CA78430E011AB5B6EEA6E50BFA47.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.02.28-14.17.41:647][687]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.02.28-14.18.04:630][671]BlueprintLog: New page: Compile RightCorner
+[2017.02.28-14.18.05:556][728]LogSavePackage: Save=34.48ms
+[2017.02.28-14.18.05:556][728]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RightCorner410E4EC0439434CFD8FFCBAEAB5E7AB7.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/RightCorner.uasset'
+[2017.02.28-14.18.05:558][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/RightCorner.uasset
+[2017.02.28-14.18.38:851][934]BlueprintLog: New page: Compile RightCorner
+[2017.02.28-14.18.41:361][153]LogSavePackage: Save=35.23ms
+[2017.02.28-14.18.41:361][153]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RightCorner944F20A14751C36CBAEB8F8E6DD08DF1.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/RightCorner.uasset'
+[2017.02.28-14.18.41:363][153]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/RightCorner.uasset
+[2017.02.28-14.19.20:242][715]BlueprintLog: New page: Compile LeftCorner
+[2017.02.28-14.19.21:275][785]LogSavePackage: Save=46.05ms
+[2017.02.28-14.19.21:275][785]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/LeftCorner6C835A7D44C39BC7DFF6818D969B16DF.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/LeftCorner.uasset'
+[2017.02.28-14.19.21:278][785]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/LeftCorner.uasset
+[2017.02.28-14.19.32:260][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_110.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:260][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_109.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:260][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_108.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:260][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:260][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_106.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:264][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_120.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:264][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:264][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_118.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:264][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.32:264][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_116.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:474][ 90]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-14.19.36:488][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:488][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:488][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_36.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:488][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:588][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:588][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:588][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:588][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_56.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.36:588][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.19.37:580][189]LogSavePackage: Save=23.53ms
+[2017.02.28-14.19.37:580][189]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup2E58B12A4EB9C497F7E3CDBEBB6737CE.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-14.19.37:582][189]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-14.19.51:146][331]BlueprintLog: New page: Compile BP_Floor_Up
+[2017.02.28-14.19.51:743][372]LogSavePackage: Save=25.86ms
+[2017.02.28-14.19.51:743][372]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Floor_Up79B6F5A54DABC5DA012B24898371DACE.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor_Up.uasset'
+[2017.02.28-14.19.51:746][372]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor_Up.uasset
+[2017.02.28-14.19.59:745][114]BlueprintLog: New page: Compile BP_Floor_Down
+[2017.02.28-14.20.03:175][458]LogSavePackage: Save=27.74ms
+[2017.02.28-14.20.03:175][458]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Floor_Down1FC0E4C140DDBFC0315A33BAAC76381A.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor_Down.uasset'
+[2017.02.28-14.20.03:177][458]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor_Down.uasset
+[2017.02.28-14.20.45:814][917]BlueprintLog: New page: Compile BP_Floor
+[2017.02.28-14.20.47:159][955]LogSavePackage: Save=82.99ms
+[2017.02.28-14.20.47:159][955]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Floor6C3F0D3B4B981ECD9414F6B04E66249B.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset'
+[2017.02.28-14.20.47:162][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset
+[2017.02.28-14.21.50:854][ 30]BlueprintLog: New page: Compile BP_Floor
+[2017.02.28-14.21.52:618][102]LogSavePackage: Save=101.21ms
+[2017.02.28-14.21.52:618][102]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Floor5B7F2C7F44D64E02BEAEA39F08D76601.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset'
+[2017.02.28-14.21.52:621][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset
+[2017.02.28-14.22.51:317][546]LogSavePackage: Save=65.66ms
+[2017.02.28-14.22.51:317][546]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Floor955FB8374D1793C40D96B8AE70D56E25.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset'
+[2017.02.28-14.22.51:319][546]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Floor.uasset
+[2017.02.28-14.22.54:938][871]MapCheck: New page: Map Check
+[2017.02.28-14.22.54:994][871]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.28-14.22.54:995][871]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.28-14.22.55:047][871]LightingResults: New page: Lighting Build - 28 Feb 2017 14:22:55
+[2017.02.28-14.22.55:358][871]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.28-14.22.55:463][871]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.28-14.22.55:532][871]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.28-14.22.57:208][871]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.28-14.22.57:208][871]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4676
+[2017.02.28-14.23.02:234][871]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.28-14.23.02:242][871]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.28-14.23.02:242][871]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.28-14.23.02:242][871]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.28-14.23.02:242][871]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.28-14.23.02:242][871]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.28-14.23.02:511][871]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.28-14.23.02:511][871]MapCheck: New page: Endless_Runner_Main - 28 Feb 2017 14:23:02
+[2017.02.28-14.23.02:584][871]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.26ms to complete.
+[2017.02.28-14.23.02:605][871]LogEditorBuildUtils: Build time 0:07
+[2017.02.28-14.23.05:856][917]Job is a success!
+[2017.02.28-14.23.06:008][918]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.28-14.23.06:008][918]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.28-14.23.06:008][918]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.02.28-14.23.06:031][918]Lightmass on GAMES-106-025: 761 ms total, 120 ms importing, 15 ms setup, 257 ms photons, 332 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 2.17 sec total, 76 ms processing.
+[2017.02.28-14.23.06:376][918]LogStaticLightingSystem: Illumination: 11.2 sec (1 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2017.02.28-14.23.06:376][918]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.28-14.23.06:376][918]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.02.28-14.23.07:217][918]DumpUnbuiltLightIteractions
+[2017.02.28-14.23.07:217][918]Lights with unbuilt interactions: 0
+[2017.02.28-14.23.07:217][918]
+[2017.02.28-14.23.07:217][918]Primitives with unbuilt interactions: 0
+[2017.02.28-14.23.07:241][919]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.28-14.23.07:241][919]MapCheck: New page: Endless_Runner_Main - 28 Feb 2017 14:23:07
+[2017.02.28-14.23.07:325][919]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 84.42ms to complete.
+[2017.02.28-14.23.11:022][175]LogSavePackage: Save=19.88ms
+[2017.02.28-14.23.11:022][175]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Endless_Runner_MainEB155C5C4F545C5577687FBAC3A5DF30.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Endless_Runner_Main.umap'
+[2017.02.28-14.23.11:026][175]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Endless_Runner_Main.umap
+[2017.02.28-14.23.11:183][175]LogFileHelpers: Saving map 'Endless_Runner_Main' took 0.274
+[2017.02.28-14.23.11:212][175]LogSavePackage: Save=9.70ms
+[2017.02.28-14.23.11:213][175]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Endless_Runner_Main_BuiltDataB08E8A8D466188E5B3B55A8EB037DF04.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Endless_Runner_Main_BuiltData.uasset'
+[2017.02.28-14.23.11:215][175]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Endless_Runner_Main_BuiltData.uasset
+[2017.02.28-14.23.12:510][292]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.02.28-14.23.12:543][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.23.12:544][292]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:23:12)
+[2017.02.28-14.23.12:544][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.23.12:545][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001649s)
+[2017.02.28-14.23.12:546][292]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.23.12:546][292]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2017.02.28-14.23.12:546][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002463s)
+[2017.02.28-14.23.12:569][292]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.23.12:580][292]LogInit: FAudioDevice initialized.
+[2017.02.28-14.23.12:630][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.23.12:632][292]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.23.12
+[2017.02.28-14.23.12:632][292]LogWorld: Bringing up level for play took: 0.000934
+[2017.02.28-14.23.12:661][292]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main -0.761
+[2017.02.28-14.34.01:947][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_548.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:953][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_559.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:956][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_567.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:960][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_570.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_545.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_547.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_558.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_566.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_568.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_549.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:961][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_571.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_582.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_584.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_569.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_565.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_572.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_574.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_583.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_573.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_546.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_556.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_581.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_557.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_580.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.34.01:964][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_555.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.36.20:359][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.030
+[2017.02.28-14.36.20:360][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Pickup] ([1] browsable assets)...
+[2017.02.28-14.36.20:376][154]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Pickup.BP_Pickup]
+[2017.02.28-14.36.20:376][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Pickup]
+[2017.02.28-14.36.20:418][154]LogSavePackage: Save=25.57ms
+[2017.02.28-14.36.20:418][154]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup_Auto241AC18EA46A0097D4CE2C49EC52DFC4B.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto2.uasset'
+[2017.02.28-14.36.20:420][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto2.uasset
+[2017.02.28-14.36.20:420][154]LogFileHelpers: Auto-saving content packages took 0.060
+[2017.02.28-14.37.21:462][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_597.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:462][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_599.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:466][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_601.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:466][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_598.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:466][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_596.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:466][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_595.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:466][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_604.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:467][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_603.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:467][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_602.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:467][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_600.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:470][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_609.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:470][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_608.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:470][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_607.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:470][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_606.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.37.21:470][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_605.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.45.26:012][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.45.30:076][957]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-14.45.30:904][ 17]LogSavePackage: Save=25.26ms
+[2017.02.28-14.45.30:904][ 17]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_PickupDB29373246EA7BA3FBC4D48811DF71AC.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-14.45.30:908][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-14.46.24:535][662]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.02.28-14.46.24:853][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_144.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:856][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_148.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:859][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_153.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:863][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_155.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:865][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:867][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:882][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:882][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:882][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:882][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:883][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:889][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:890][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:890][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_42.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:890][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:890][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:897][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:897][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:897][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_52.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:897][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:898][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_50.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:905][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:905][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:905][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:905][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:905][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:954][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_173.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:960][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_174.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:962][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Obstacles_C_CHILDACTOR_175.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:976][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:976][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_98.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:977][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:977][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_96.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:977][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:983][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_104.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:983][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:983][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_102.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:984][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:984][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:991][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_109.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:991][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_108.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:991][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:991][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_106.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:991][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_105.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:997][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_114.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:997][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:997][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_112.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:997][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.24:997][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_110.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:003][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:003][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_118.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:003][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:003][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_116.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:003][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:007][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_129.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:007][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_128.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:007][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_127.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:007][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_126.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:007][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_125.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:014][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_134.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:014][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_133.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:014][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_132.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:014][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_131.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:015][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_130.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-14.46.25:645][669]LogSavePackage: Save=84.86ms
+[2017.02.28-14.46.25:645][669]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/ThirdPersonCharacterBAD1B06947EED2B7187658A5A50BB8AB.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.02.28-14.46.25:650][669]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.02.28-14.46.28:097][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:169][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:261][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:353][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:444][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:537][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.28:632][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.02.28-14.46.29:364][952]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.02.28-14.46.29:381][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.46.29:382][952]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:46:29)
+[2017.02.28-14.46.29:382][952]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.46.29:383][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2017.02.28-14.46.29:384][952]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.46.29:384][952]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2017.02.28-14.46.29:384][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002587s)
+[2017.02.28-14.46.29:406][952]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.46.29:416][952]LogInit: FAudioDevice initialized.
+[2017.02.28-14.46.29:459][952]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.46.29:461][952]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.46.29
+[2017.02.28-14.46.29:462][952]LogWorld: Bringing up level for play took: 0.001304
+[2017.02.28-14.46.29:489][952]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.047
+[2017.02.28-14.51.10:849][542]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.02.28-14.51.10:883][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.51.10:883][542]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:51:10)
+[2017.02.28-14.51.10:883][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.51.10:887][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2017.02.28-14.51.10:887][542]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.51.10:888][542]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2017.02.28-14.51.10:888][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.004683s)
+[2017.02.28-14.51.10:911][542]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.51.10:921][542]LogInit: FAudioDevice initialized.
+[2017.02.28-14.51.10:967][542]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.51.10:969][542]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.51.10
+[2017.02.28-14.51.10:969][542]LogWorld: Bringing up level for play took: 0.001072
+[2017.02.28-14.51.10:992][542]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main -0.453
+[2017.02.28-14.51.13:576][814]Cmd: RestartLevel
+[2017.02.28-14.51.13:584][815]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-14.51.13:584][815]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-14.51.13:609][815]Cmd: MEM
+[2017.02.28-14.51.13:622][815]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-14.51.13:622][815]LogMemory: Process Physical Memory: 1880.59 MB used, 1947.98 MB peak
+[2017.02.28-14.51.13:622][815]LogMemory: Process Virtual Memory: 3095.46 MB used, 3624.52 MB peak
+[2017.02.28-14.51.13:622][815]LogMemory: Physical Memory: 6112.61 MB used,  10149.13 MB free, 16261.73 MB total
+[2017.02.28-14.51.13:622][815]LogMemory: Virtual Memory: 4300.19 MB used,  10149.13 MB free, 8388608.00 MB total
+[2017.02.28-14.51.13:622][815]LogMemory: 
+[2017.02.28-14.51.13:622][815]Allocator Stats for TBB: (not implemented)
+[2017.02.28-14.51.13:622][815]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.51.13:624][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2017.02.28-14.51.13:624][815]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.51.13:625][815]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2017.02.28-14.51.13:625][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002303s)
+[2017.02.28-14.51.13:625][815]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.51.13:626][815]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.51.13
+[2017.02.28-14.51.13:627][815]LogWorld: Bringing up level for play took: 0.000777
+[2017.02.28-14.51.13:643][815]LogLoad: Took 0.059483 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-14.53.23:218][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.53.23:218][ 48]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:53:23)
+[2017.02.28-14.53.23:218][ 48]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.53.23:220][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2017.02.28-14.53.23:221][ 48]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.53.23:221][ 48]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2017.02.28-14.53.23:221][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002820s)
+[2017.02.28-14.53.23:235][ 48]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.53.23:245][ 48]LogInit: FAudioDevice initialized.
+[2017.02.28-14.53.23:271][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.53.23:273][ 48]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.53.23
+[2017.02.28-14.53.23:273][ 48]LogWorld: Bringing up level for play took: 0.000950
+[2017.02.28-14.53.23:296][ 48]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main -0.151
+[2017.02.28-14.56.04:847][ 63]BlueprintLog: New page: Compile RunnerHud
+[2017.02.28-14.56.04:973][ 63]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.02.28-14.56.06:751][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HUD/RunnerHud" FILE="../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset" SILENT=true
+[2017.02.28-14.56.06:787][168]LogSavePackage: Save=15.90ms
+[2017.02.28-14.56.06:787][168]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RunnerHud5587C20D4C22BE6B2355929AA5636A1A.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset'
+[2017.02.28-14.56.06:791][168]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset
+[2017.02.28-14.56.14:241][581]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-14.56.14:267][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.56.14:268][581]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:56:14)
+[2017.02.28-14.56.14:268][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.56.14:269][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2017.02.28-14.56.14:270][581]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.56.14:270][581]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2017.02.28-14.56.14:270][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002626s)
+[2017.02.28-14.56.14:286][581]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.56.14:296][581]LogInit: FAudioDevice initialized.
+[2017.02.28-14.56.14:328][581]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.56.14:330][581]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.56.14
+[2017.02.28-14.56.14:330][581]LogWorld: Bringing up level for play took: 0.001137
+[2017.02.28-14.56.14:359][581]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.909
+[2017.02.28-14.56.47:892][478]BlueprintLog: New page: Compile RunnerHud
+[2017.02.28-14.56.48:053][478]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.02.28-14.56.48:566][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HUD/RunnerHud" FILE="../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset" SILENT=true
+[2017.02.28-14.56.48:597][504]LogSavePackage: Save=19.41ms
+[2017.02.28-14.56.48:597][504]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RunnerHud50D8119C43C30A5C2100F6AC22541BCA.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset'
+[2017.02.28-14.56.48:601][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset
+[2017.02.28-14.57.01:642][327]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-14.57.01:667][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.57.01:668][327]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:57:01)
+[2017.02.28-14.57.01:668][327]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.57.01:669][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001652s)
+[2017.02.28-14.57.01:670][327]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.57.01:670][327]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2017.02.28-14.57.01:670][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002457s)
+[2017.02.28-14.57.01:688][327]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.57.01:698][327]LogInit: FAudioDevice initialized.
+[2017.02.28-14.57.01:726][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.57.01:728][327]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.57.01
+[2017.02.28-14.57.01:728][327]LogWorld: Bringing up level for play took: 0.001171
+[2017.02.28-14.57.01:756][327]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.307
+[2017.02.28-14.57.39:314][ 77]BlueprintLog: New page: Compile RunnerHud
+[2017.02.28-14.57.39:428][ 77]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.02.28-14.57.39:897][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HUD/RunnerHud" FILE="../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset" SILENT=true
+[2017.02.28-14.57.39:919][103]LogSavePackage: Save=15.05ms
+[2017.02.28-14.57.39:919][103]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RunnerHud8BAEA21944236BFE7A8069A8DE028F8C.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset'
+[2017.02.28-14.57.39:921][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset
+[2017.02.28-14.57.41:956][285]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-14.57.41:974][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-14.57.41:974][285]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 14:57:41)
+[2017.02.28-14.57.41:974][285]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-14.57.41:976][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001540s)
+[2017.02.28-14.57.41:976][285]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-14.57.41:976][285]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2017.02.28-14.57.41:977][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002732s)
+[2017.02.28-14.57.41:992][285]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-14.57.42:004][285]LogInit: FAudioDevice initialized.
+[2017.02.28-14.57.42:030][285]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-14.57.42:032][285]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-14.57.42
+[2017.02.28-14.57.42:032][285]LogWorld: Bringing up level for play took: 0.000855
+[2017.02.28-14.57.42:050][285]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.599
+[2017.02.28-14.59.21:210][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HUD/RunnerHud" FILE="../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset" SILENT=true
+[2017.02.28-14.59.21:235][281]LogSavePackage: Save=16.56ms
+[2017.02.28-14.59.21:235][281]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/RunnerHud1131A18F4F195B3889A6D8B52638BC1D.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset'
+[2017.02.28-14.59.21:237][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/HUD/RunnerHud.uasset
+[2017.02.28-15.08.29:135][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.032
+[2017.02.28-15.08.29:138][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Pickup] ([1] browsable assets)...
+[2017.02.28-15.08.29:174][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Pickup.BP_Pickup]
+[2017.02.28-15.08.29:174][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Pickup]
+[2017.02.28-15.08.29:223][631]LogSavePackage: Save=28.85ms
+[2017.02.28-15.08.29:223][631]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup_Auto37990C0C049514E64DC59378DBA3D40D8.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto3.uasset'
+[2017.02.28-15.08.29:224][631]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto3.uasset
+[2017.02.28-15.08.29:224][631]LogFileHelpers: Auto-saving content packages took 0.088
+[2017.02.28-15.18.30:090][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.022
+[2017.02.28-15.18.30:091][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Pickup] ([1] browsable assets)...
+[2017.02.28-15.18.30:091][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Pickup]
+[2017.02.28-15.18.30:126][613]LogSavePackage: Save=17.26ms
+[2017.02.28-15.18.30:126][613]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup_Auto4FEE8F8AA4FC709454148BEA65A31F781.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto4.uasset'
+[2017.02.28-15.18.30:128][613]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto4.uasset
+[2017.02.28-15.18.30:128][613]LogFileHelpers: Auto-saving content packages took 0.037
+[2017.02.28-15.37.09:078][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_180.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:078][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_179.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:078][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_178.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:078][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_177.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:078][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_176.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:082][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_190.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:082][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_189.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:082][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_188.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:082][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_187.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:082][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_186.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:086][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_191.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:086][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_192.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:086][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_193.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:087][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_194.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.09:087][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_195.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:930][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_210.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:930][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_209.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:930][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:930][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_207.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:930][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:944][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_221.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:945][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_225.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:945][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_224.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:945][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_223.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.31:945][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_222.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.33:007][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_244.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.33:007][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_245.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.33:007][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_243.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.33:007][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_242.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.37.33:008][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_Pickup_C_CHILDACTOR_241.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.28-15.38.57:010][611]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-15.38.57:020][611]LogBlueprint:Error: [Compiler BP_Pickup] Error The current value of the ' NewRelativeTransform ' pin is invalid: 'New Relative Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.02.28-15.38.57:494][611]BlueprintEditorCompileResults:Error: Error The current value of the ' NewRelativeTransform ' pin is invalid: 'New Relative Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.02.28-15.38.57:494][611]LogBlueprint:Warning: [Compiler BP_Pickup] Warning [6315.64] Compile of BP_Pickup failed. 1 Fatal Issue(s) 0 Warning(s) [in 483 ms] (/Game/ThirdPersonBP/Blueprints/BP_Pickup.BP_Pickup)
+[2017.02.28-15.40.22:427][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.016
+[2017.02.28-15.40.22:428][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Pickup] ([1] browsable assets)...
+[2017.02.28-15.40.22:443][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Pickup.BP_Pickup]
+[2017.02.28-15.40.22:443][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Pickup]
+[2017.02.28-15.40.22:501][295]LogSavePackage: Save=41.60ms
+[2017.02.28-15.40.22:501][295]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup_Auto50C6325B944A90A69DA1EDCB3A11896D1.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto5.uasset'
+[2017.02.28-15.40.22:502][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto5.uasset
+[2017.02.28-15.40.22:502][295]LogFileHelpers: Auto-saving content packages took 0.074
+[2017.02.28-15.41.42:594][514]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-15.43.29:034][891]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-15.43.38:080][550]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.28-15.43.38:101][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-15.43.38:101][550]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 15:43:38)
+[2017.02.28-15.43.38:101][550]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-15.43.38:103][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2017.02.28-15.43.38:103][550]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-15.43.38:104][550]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2017.02.28-15.43.38:104][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002657s)
+[2017.02.28-15.43.38:122][550]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-15.43.38:132][550]LogInit: FAudioDevice initialized.
+[2017.02.28-15.43.38:160][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-15.43.38:161][550]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-15.43.38
+[2017.02.28-15.43.38:162][550]LogWorld: Bringing up level for play took: 0.000962
+[2017.02.28-15.43.38:179][550]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.691
+[2017.02.28-15.43.41:845][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.28-15.43.41:845][809]PIE: New page: PIE session: Endless_Runner_Main (28 Feb 2017 15:43:41)
+[2017.02.28-15.43.41:846][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-15.43.41:847][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001558s)
+[2017.02.28-15.43.41:848][809]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-15.43.41:848][809]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.02.28-15.43.41:848][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002337s)
+[2017.02.28-15.43.41:864][809]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.28-15.43.41:874][809]LogInit: FAudioDevice initialized.
+[2017.02.28-15.43.41:922][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-15.43.41:924][809]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-15.43.41
+[2017.02.28-15.43.41:924][809]LogWorld: Bringing up level for play took: 0.000958
+[2017.02.28-15.43.41:951][809]PIE: Info Play in editor start time for /Game/UEDPIE_0_Endless_Runner_Main 0.463
+[2017.02.28-15.43.44:643][967]Cmd: RestartLevel
+[2017.02.28-15.43.44:658][968]LogNet: Browse: /Game/Endless_Runner_Main?restart
+[2017.02.28-15.43.44:658][968]LogLoad: LoadMap: /Game/Endless_Runner_Main
+[2017.02.28-15.43.44:683][968]Cmd: MEM
+[2017.02.28-15.43.44:697][968]LogMemory: Platform Memory Stats for Windows
+[2017.02.28-15.43.44:697][968]LogMemory: Process Physical Memory: 1893.42 MB used, 1947.98 MB peak
+[2017.02.28-15.43.44:697][968]LogMemory: Process Virtual Memory: 3056.23 MB used, 3624.52 MB peak
+[2017.02.28-15.43.44:697][968]LogMemory: Physical Memory: 5999.75 MB used,  10261.98 MB free, 16261.73 MB total
+[2017.02.28-15.43.44:697][968]LogMemory: Virtual Memory: 4276.26 MB used,  10261.98 MB free, 8388608.00 MB total
+[2017.02.28-15.43.44:697][968]LogMemory: 
+[2017.02.28-15.43.44:697][968]Allocator Stats for TBB: (not implemented)
+[2017.02.28-15.43.44:697][968]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Endless_Runner_Main
+[2017.02.28-15.43.44:699][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001504s)
+[2017.02.28-15.43.44:699][968]LogAIModule: Creating AISystem for world Endless_Runner_Main
+[2017.02.28-15.43.44:700][968]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2017.02.28-15.43.44:700][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Endless_Runner_Main.Endless_Runner_Main to /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main (0.002282s)
+[2017.02.28-15.43.44:700][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.28-15.43.44:701][968]LogWorld: Bringing World /Game/UEDPIE_0_Endless_Runner_Main.Endless_Runner_Main up for play (max tick rate 0) at 2017.02.28-15.43.44
+[2017.02.28-15.43.44:701][968]LogWorld: Bringing up level for play took: 0.000782
+[2017.02.28-15.43.44:721][968]LogLoad: Took 0.062947 seconds to LoadMap(/Game/UEDPIE_0_Endless_Runner_Main)
+[2017.02.28-15.44.16:284][887]LogSavePackage: Save=37.71ms
+[2017.02.28-15.44.16:284][887]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup1BC0D27E4C40C36B75C584A0CC8E65E6.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-15.44.16:286][887]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-15.46.16:052][508]BlueprintLog: New page: Compile BP_Pickup
+[2017.02.28-15.46.17:239][587]LogSavePackage: Save=26.32ms
+[2017.02.28-15.46.17:239][587]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup7A87F5CF40455C0035CF4AA53993639D.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-15.46.17:241][587]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-15.46.55:401][428]LogSavePackage: Save=36.70ms
+[2017.02.28-15.46.55:401][428]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup353489F64CD75D25E85265B2FB83760C.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-15.46.55:404][428]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-15.51.02:321][760]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Endless_Runner_Main' took 0.019
+[2017.02.28-15.51.02:322][760]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Pickup] ([1] browsable assets)...
+[2017.02.28-15.51.02:322][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Pickup]
+[2017.02.28-15.51.02:354][760]LogSavePackage: Save=19.32ms
+[2017.02.28-15.51.02:354][760]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup_Auto6C74C68BA408F5A6C0119D3892B1F3250.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto6.uasset'
+[2017.02.28-15.51.02:355][760]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Pickup_Auto6.uasset
+[2017.02.28-15.51.02:355][760]LogFileHelpers: Auto-saving content packages took 0.033
+[2017.02.28-15.51.02:520][770]LogSavePackage: Save=18.90ms
+[2017.02.28-15.51.02:520][770]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/BP_Pickup293E8138442FB59F4D9F9795DEAA168A.tmp' to '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset'
+[2017.02.28-15.51.02:524][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/ThirdPersonBP/Blueprints/BP_Pickup.uasset
+[2017.02.28-15.51.13:209][606]Cmd: QUIT_EDITOR
+[2017.02.28-15.51.13:426][606]LogExit: Preparing to exit.
+[2017.02.28-15.51.14:499][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/' was aborted.
+[2017.02.28-15.51.14:541][606]LogExit: Editor shut down
+[2017.02.28-15.51.14:541][606]LogExit: Transaction tracking system shut down
+[2017.02.28-15.51.14:950][606]LogObj: Freed 0b from 0 cluster array pools.
+[2017.02.28-15.51.14:950][606]LogExit: Object subsystem successfully closed.
+[2017.02.28-15.51.15:008][606]LogD3D11RHI: Shutdown
+[2017.02.28-15.51.15:008][606]LogD3D11RHI: CleanupD3DDevice
+[2017.02.28-15.51.15:124][606]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.02.28-15.51.15:488][606]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.02.28-15.51.15:488][606]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F1F5943-44D1-01BC-D664-4099FB092810%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=7c86758f432a48dd4c83c895f0ea420c%7C6d39bc0e7ff743f0bb9e84f4e95628a5%7Cbc37c8b2-b033-4a4e-8772-e21b297d9204&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.02.28-15.51.15:504][606]LogModuleManager: Shutting down and abandoning module SequencerWidgets (246)
+[2017.02.28-15.51.15:504][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (245)
+[2017.02.28-15.51.15:513][606]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2017.02.28-15.51.15:513][606]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2017.02.28-15.51.15:532][606]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.02.28-15.51.15:532][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.02.28-15.51.15:547][606]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.02.28-15.51.15:548][606]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.02.28-15.51.15:548][606]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.02.28-15.51.15:548][606]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.02.28-15.51.15:548][606]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.02.28-15.51.15:551][606]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.02.28-15.51.15:551][606]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.02.28-15.51.15:551][606]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.02.28-15.51.15:551][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Collections/' was aborted.
+[2017.02.28-15.51.15:551][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/Developers/Games/Collections/' was aborted.
+[2017.02.28-15.51.15:551][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Saved/Collections/' was aborted.
+[2017.02.28-15.51.15:551][606]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.02.28-15.51.15:555][606]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.02.28-15.51.15:555][606]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.02.28-15.51.15:565][606]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.02.28-15.51.15:566][606]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.02.28-15.51.15:578][606]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.02.28-15.51.15:585][606]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.02.28-15.51.15:585][606]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.02.28-15.51.15:585][606]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.02.28-15.51.15:586][606]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.02.28-15.51.15:606][606]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.02.28-15.51.15:621][606]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.02.28-15.51.15:633][606]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.02.28-15.51.15:648][606]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.02.28-15.51.15:649][606]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.02.28-15.51.15:649][606]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.02.28-15.51.15:649][606]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.02.28-15.51.15:756][606]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.02.28-15.51.15:756][606]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.02.28-15.51.15:756][606]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.02.28-15.51.15:756][606]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.02.28-15.51.15:756][606]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.02.28-15.51.15:758][606]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.02.28-15.51.15:766][606]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.02.28-15.51.15:766][606]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.02.28-15.51.15:766][606]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.02.28-15.51.15:766][606]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.02.28-15.51.15:766][606]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.02.28-15.51.15:774][606]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.02.28-15.51.15:774][606]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.02.28-15.51.15:783][606]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.02.28-15.51.15:793][606]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.02.28-15.51.15:804][606]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.02.28-15.51.15:820][606]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.02.28-15.51.15:825][606]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.02.28-15.51.15:831][606]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.02.28-15.51.15:831][606]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.02.28-15.51.15:890][606]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.02.28-15.51.15:890][606]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.02.28-15.51.15:910][606]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.02.28-15.51.15:924][606]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.02.28-15.51.15:924][606]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.02.28-15.51.15:924][606]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.02.28-15.51.15:924][606]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.02.28-15.51.15:924][606]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.02.28-15.51.15:930][606]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.02.28-15.51.15:944][606]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.02.28-15.51.15:944][606]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.02.28-15.51.15:952][606]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.02.28-15.51.15:952][606]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.02.28-15.51.15:960][606]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.02.28-15.51.15:964][606]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.02.28-15.51.15:975][606]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.02.28-15.51.15:980][606]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.02.28-15.51.15:981][606]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.02.28-15.51.16:213][606]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.02.28-15.51.16:224][606]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.02.28-15.51.16:233][606]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.02.28-15.51.16:243][606]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.02.28-15.51.16:243][606]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.02.28-15.51.16:243][606]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.02.28-15.51.16:243][606]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.02.28-15.51.16:249][606]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.02.28-15.51.16:249][606]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.02.28-15.51.16:249][606]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.02.28-15.51.16:249][606]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.02.28-15.51.16:249][606]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.02.28-15.51.16:253][606]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.02.28-15.51.16:253][606]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.02.28-15.51.16:253][606]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.02.28-15.51.16:253][606]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.02.28-15.51.16:253][606]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.02.28-15.51.16:254][606]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.02.28-15.51.16:257][606]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.02.28-15.51.16:259][606]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.02.28-15.51.16:270][606]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.02.28-15.51.16:370][606]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.02.28-15.51.16:470][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.02.28-15.51.16:470][606]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.02.28-15.51.16:470][606]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.02.28-15.51.16:470][606]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.02.28-15.51.16:483][606]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.02.28-15.51.16:484][606]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.02.28-15.51.16:484][606]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.02.28-15.51.16:484][606]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.02.28-15.51.16:484][606]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.02.28-15.51.16:484][606]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.02.28-15.51.16:491][606]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.02.28-15.51.16:491][606]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.02.28-15.51.16:502][606]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.02.28-15.51.16:502][606]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.02.28-15.51.16:502][606]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.02.28-15.51.16:502][606]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.02.28-15.51.16:513][606]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.02.28-15.51.16:513][606]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.02.28-15.51.16:513][606]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.02.28-15.51.16:526][606]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.02.28-15.51.16:526][606]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.02.28-15.51.16:532][606]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.02.28-15.51.16:532][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.02.28-15.51.16:532][606]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Games/Documents/GitHub/Endless-Runer/Endless_Runner/Content/' was aborted.
+[2017.02.28-15.51.16:533][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.02.28-15.51.16:534][606]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.02.28-15.51.16:692][606]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.02.28-15.51.16:692][606]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.02.28-15.51.16:692][606]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.02.28-15.51.16:704][606]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.02.28-15.51.16:704][606]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.02.28-15.51.16:704][606]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.02.28-15.51.16:704][606]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.02.28-15.51.16:715][606]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.02.28-15.51.16:754][606]LogDerivedDataCache: Shutdown
+[2017.02.28-15.51.16:754][606]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.02.28-15.51.16:754][606]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.02.28-15.51.16:759][606]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.02.28-15.51.16:759][606]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.02.28-15.51.16:771][606]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.02.28-15.51.16:771][606]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.02.28-15.51.16:772][606]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.02.28-15.51.16:773][606]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.02.28-15.51.16:773][606]LogOnline:Display: Unloading online subsystem: NULL
+[2017.02.28-15.51.16:794][606]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.02.28-15.51.16:797][606]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.02.28-15.51.16:797][606]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.02.28-15.51.16:809][606]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.02.28-15.51.16:809][606]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.02.28-15.51.16:809][606]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.02.28-15.51.16:809][606]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.02.28-15.51.16:832][606]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.02.28-15.51.16:853][606]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.02.28-15.51.16:859][606]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.02.28-15.51.16:859][606]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.02.28-15.51.16:859][606]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.02.28-15.51.16:872][606]LogExit: Exiting.
+[2017.02.28-15.51.16:907][606]Log file closed, 02/28/17 15:51:16
